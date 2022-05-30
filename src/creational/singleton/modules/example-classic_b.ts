@@ -1,5 +1,5 @@
 import { MyDatabaseClassic } from '../db/my-database-classic';
-import { myDatabaseClassic as myDatabaseClassicFromModuleA } from './module_a';
+import { myDatabaseClassic as myDatabaseClassicFromModuleA } from './example-classic_a';
 
 const myDatabaseClassic = MyDatabaseClassic.instance;
 myDatabaseClassic.add({ name: 'Alice', age: 18 });
