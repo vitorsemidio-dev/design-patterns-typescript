@@ -1,5 +1,5 @@
-import { MyDatabaseModule } from '../db/my-database-module';
-import { myDatabaseModule as myDatabaseModuleFromModuleA } from './example-module_a';
+import { MyDatabaseModule } from '../../db/my-database-module';
+import { myDatabaseModule as myDatabaseModuleFromModuleA } from './module_a';
 
 const myDatabaseModule = MyDatabaseModule;
 myDatabaseModule.add({ name: 'Alice', age: 18 });

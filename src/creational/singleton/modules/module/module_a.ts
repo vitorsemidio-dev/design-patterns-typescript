@@ -1,4 +1,4 @@
-import { MyDatabaseModule } from '../db/my-database-module';
+import { MyDatabaseModule } from '../../db/my-database-module';
 
 const myDatabaseModule = MyDatabaseModule;
 myDatabaseModule.add({ name: 'John', age: 20 });

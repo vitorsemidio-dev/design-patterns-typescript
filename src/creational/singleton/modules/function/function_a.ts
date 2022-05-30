@@ -1,4 +1,4 @@
-import { MyDatabaseFunction } from '../db/my-database-function';
+import { MyDatabaseFunction } from '../../db/my-database-function';
 
 const myDatabaseFunction = MyDatabaseFunction;
 myDatabaseFunction.add({ name: 'John', age: 20 });
