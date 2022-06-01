@@ -2,38 +2,29 @@
 
 Este repositório guarda as implementações dos padrões de projetos.
 
-Os vídeos descrevendo os padrões são publicados em [Padrões de Projeto (Design Patterns - GoF)](https://www.youtube.com/watch?v=MqddY6Ochkc&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H).
+Os vídeos descrevendo os padrões estão publicados em [Padrões de Projeto (Design Patterns - GoF)](https://www.youtube.com/watch?v=MqddY6Ochkc&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H).
 
 Repositório com código original em: [luizomf - Design Patterns Typescript](https://github.com/luizomf/design-patterns-typescript).
 
-
 ## Lista de Aulas
 
-**Seletor para pegar nome de todas as aulas da playlist**
-
-```js
-const playlist = document.querySelectorAll('#contents > ytd-playlist-video-renderer > div:nth-child(2) > div > div > h3')
-
-const playlistTitles = Array.from(playlist).map(item => item.innerText).join('\n');
-```
-
-- Padrões de Projeto (Design Patterns - GoF) - Introdução - Parte 1/45
-- Padrões de Projeto - UML Básico - Parte 2/45
-- Padrões de Projeto - Configurando um projeto TypeScript - Parte 3/45
-- Singleton Teoria - Padrões de Projeto - Parte 4/45
-- Singleton Prática - Padrões de Projeto - Parte 5/45
-- Builder Teoria - Padrões de Projeto - Parte 6/45
-- Builder Prática - Padrões de Projeto - Parte 7/45
-- Prototype Teoria - Padrões de Projeto - Parte 8/45
-- Prototype Prática - Padrões de Projeto - Parte 9/45
-- Factory Method Teoria - Padrões de Projeto - Parte 10/45
-- Factory Method Prática - Padrões de Projeto - Parte 11/45
-- Abstract Factory Teoria - Padrões de Projeto - Parte 12/45
-- Abstract Factory Prática - Padrões de Projeto - Parte 13/45
-- Composite Teoria - Padrões de Projeto - Parte 14/45
-- Composite Prática - Padrões de Projeto - Parte 15/45
-- Adapter Teoria - Padrões de Projeto - Parte 16/45
-- Adapter Prática - Padrões de Projeto - Parte 17/45
+- ✔️ Padrões de Projeto (Design Patterns - GoF) - Introdução - Parte 1/45
+- ✔️ Padrões de Projeto - UML Básico - Parte 2/45
+- ✔️ Padrões de Projeto - Configurando um projeto TypeScript - Parte 3/45
+- ✔️ Singleton Teoria - Padrões de Projeto - Parte 4/45
+- ✔️ Singleton Prática - Padrões de Projeto - Parte 5/45
+- ✔️ Builder Teoria - Padrões de Projeto - Parte 6/45
+- ✔️ Builder Prática - Padrões de Projeto - Parte 7/45
+- ✔️ Prototype Teoria - Padrões de Projeto - Parte 8/45
+- ✔️ Prototype Prática - Padrões de Projeto - Parte 9/45
+- ✔️ Factory Method Teoria - Padrões de Projeto - Parte 10/45
+- ✔️ Factory Method Prática - Padrões de Projeto - Parte 11/45
+- ✔️ Abstract Factory Teoria - Padrões de Projeto - Parte 12/45
+- ✔️ Abstract Factory Prática - Padrões de Projeto - Parte 13/45
+- ✔️ Composite Teoria - Padrões de Projeto - Parte 14/45
+- ✔️ Composite Prática - Padrões de Projeto - Parte 15/45
+- ✔️ Adapter Teoria - Padrões de Projeto - Parte 16/45
+- ✔️ Adapter Prática - Padrões de Projeto - Parte 17/45
 - Bridge Teoria - Padrões de Projeto - Parte 18/45
 - Bridge Prática - Padrões de Projeto - Parte 19/45
 - Decorator Teoria - Padrões de Projeto - Parte 20/45
@@ -62,3 +53,17 @@ const playlistTitles = Array.from(playlist).map(item => item.innerText).join('\n
 - Iterator Teoria - Padrões de Projeto - Parte 43/45
 - Iterator Prática - Padrões de Projeto - Parte 44/45
 - Visitor Prática e Teoria - Padrões de Projeto - Parte 45/45
+
+## Outros
+
+**Seletor para pegar nome de todas as aulas da playlist**
+
+```js
+const playlist = document.querySelectorAll(
+  '#contents > ytd-playlist-video-renderer > div:nth-child(2) > div > div > h3',
+);
+
+const playlistTitles = Array.from(playlist)
+  .map((item) => item.innerText)
+  .join('\n');
+```
