@@ -25,8 +25,8 @@ Repositório com código original em: [luizomf - Design Patterns Typescript](htt
 - ✔️ Composite Prática - Padrões de Projeto - Parte 15/45
 - ✔️ Adapter Teoria - Padrões de Projeto - Parte 16/45
 - ✔️ Adapter Prática - Padrões de Projeto - Parte 17/45
-- Bridge Teoria - Padrões de Projeto - Parte 18/45
-- Bridge Prática - Padrões de Projeto - Parte 19/45
+- ✔️ Bridge Teoria - Padrões de Projeto - Parte 18/45
+- ✔️ Bridge Prática - Padrões de Projeto - Parte 19/45
 - Decorator Teoria - Padrões de Projeto - Parte 20/45
 - Decorator Prática - Padrões de Projeto - Parte 21/45
 - Façade Teoria e Prática - Padrões de Projeto - Parte 22/45
