@@ -29,7 +29,7 @@ Repositório com código original em: [luizomf - Design Patterns Typescript](htt
 - ✔️ Bridge Prática - Padrões de Projeto - Parte 19/45
 - ✔️ Decorator Teoria - Padrões de Projeto - Parte 20/45
 - ✔️ Decorator Prática - Padrões de Projeto - Parte 21/45
-- Façade Teoria e Prática - Padrões de Projeto - Parte 22/45
+- ✔️ Façade Teoria e Prática - Padrões de Projeto - Parte 22/45
 - Proxy Teoria - Padrões de Projeto - Parte 23/45
 - Proxy Prática - Padrões de Projeto - Parte 24/45
 - Flyweight Teoria - Padrões de Projeto - Parte 25/45
