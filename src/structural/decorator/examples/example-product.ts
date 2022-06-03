@@ -1,8 +1,8 @@
 import { showDetail } from '../common/fn/show-detail';
-import { ProductStampBackDecorator } from '../product/product-back-decorator';
 import { ProductDecorator } from '../product/product-decorator';
-import { ProductStampFrontDecorator } from '../product/product-front-decorator';
 import { ProductProtocol } from '../product/product-protocol';
+import { ProductStampBackDecorator } from '../product/product-stamp-back-decorator';
+import { ProductStampFrontDecorator } from '../product/product-stamp-front-decorator';
 import { TShirt } from '../product/t-shirt';
 
 function showDetailTShirt(...protocols: ProductProtocol[]) {
