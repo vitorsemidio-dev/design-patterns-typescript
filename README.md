@@ -32,8 +32,8 @@ Repositório com código original em: [luizomf - Design Patterns Typescript](htt
 - ✔️ Façade Teoria e Prática - Padrões de Projeto - Parte 22/45
 - ✔️ Proxy Teoria - Padrões de Projeto - Parte 23/45
 - ✔️ Proxy Prática - Padrões de Projeto - Parte 24/45
-- Flyweight Teoria - Padrões de Projeto - Parte 25/45
-- Flyweight Prática - Padrões de Projeto - Parte 26/45
+- ✔️ Flyweight Teoria - Padrões de Projeto - Parte 25/45
+- ✔️ Flyweight Prática - Padrões de Projeto - Parte 26/45
 - Strategy Teoria - Padrões de Projeto - Parte 27/45
 - Strategy Prática - Padrões de Projeto - Parte 28/45
 - Command Teoria - Padrões de Projeto - Parte 29/45
