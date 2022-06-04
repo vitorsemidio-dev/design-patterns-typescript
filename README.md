@@ -36,8 +36,8 @@ Repositório com código original em: [luizomf - Design Patterns Typescript](htt
 - ✔️ Flyweight Prática - Padrões de Projeto - Parte 26/45
 - ✔️ Strategy Teoria - Padrões de Projeto - Parte 27/45
 - ✔️ Strategy Prática - Padrões de Projeto - Parte 28/45
-- Command Teoria - Padrões de Projeto - Parte 29/45
-- Command Prática - Padrões de Projeto - Parte 30/45
+- ✔️ Command Teoria - Padrões de Projeto - Parte 29/45
+- ✔️ Command Prática - Padrões de Projeto - Parte 30/45
 - Memento Teoria - Padrões de Projeto - Parte 31/45
 - Memento Prática - Padrões de Projeto - Parte 32/45
 - State Teoria - Padrões de Projeto - Parte 33/45
