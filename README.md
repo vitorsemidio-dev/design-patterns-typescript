@@ -40,8 +40,8 @@ Repositório com código original em: [luizomf - Design Patterns Typescript](htt
 - ✔️ Command Prática - Padrões de Projeto - Parte 30/45
 - ✔️ Memento Teoria - Padrões de Projeto - Parte 31/45
 - ✔️ Memento Prática - Padrões de Projeto - Parte 32/45
-- State Teoria - Padrões de Projeto - Parte 33/45
-- State Prática - Padrões de Projeto - Parte 34/45
+- ✔️ State Teoria - Padrões de Projeto - Parte 33/45
+- ✔️ State Prática - Padrões de Projeto - Parte 34/45
 - Mediator Teoria - Padrões de Projeto - Parte 35/45
 - Mediator Prática - Padrões de Projeto - Parte 36/45
 - Chain Of Responsibility Teoria - Padrões de Projeto - Parte 37/45
