@@ -46,8 +46,8 @@ Repositório com código original em: [luizomf - Design Patterns Typescript](htt
 - ✔️ Mediator Prática - Padrões de Projeto - Parte 36/45
 - ✔️ Chain Of Responsibility Teoria - Padrões de Projeto - Parte 37/45
 - ✔️ Chain Of Responsibility Prática - Padrões de Projeto - Parte 38/45
-- Template Method Teoria - Padrões de Projeto - Parte 39/45
-- Template Method Prática - Padrões de Projeto - Parte 40/45
+- ✔️ Template Method Teoria - Padrões de Projeto - Parte 39/45
+- ✔️ Template Method Prática - Padrões de Projeto - Parte 40/45
 - Observer Teoria - Padrões de Projeto - Parte 41/45
 - Observer Prática - Padrões de Projeto - Parte 42/45
 - Iterator Teoria - Padrões de Projeto - Parte 43/45
