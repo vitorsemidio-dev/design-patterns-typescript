@@ -50,8 +50,8 @@ Repositório com código original em: [luizomf - Design Patterns Typescript](htt
 - ✔️ Template Method Prática - Padrões de Projeto - Parte 40/45
 - ✔️ Observer Teoria - Padrões de Projeto - Parte 41/45
 - ✔️ Observer Prática - Padrões de Projeto - Parte 42/45
-- Iterator Teoria - Padrões de Projeto - Parte 43/45
-- Iterator Prática - Padrões de Projeto - Parte 44/45
+- ✔️ Iterator Teoria - Padrões de Projeto - Parte 43/45
+- ✔️ Iterator Prática - Padrões de Projeto - Parte 44/45
 - Visitor Prática e Teoria - Padrões de Projeto - Parte 45/45
 
 ## Outros
